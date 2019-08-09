@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "zero",
+      "description": "test",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "www.google.com",
+      "github_link": "https://github.com/apasric4/FEWD-project-1",
+      "image_urls": 
+    },
+    {
+      "id": 1,
+      "project_name": "zero",
+      "description": "test",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "www.google.com",
+      "github_link": "https://github.com/apasric4/FEWD-project-2",
+      "image_urls": 
+    },
+    {
+      "id": 2,
+      "project_name": "zero",
+      "description": "test",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "www.google.com",
+      "github_link": "https://github.com/apasric4/FEWD-project-3",
+      "image_urls": 
+    }
+  ]
+}
