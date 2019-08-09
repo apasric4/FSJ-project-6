@@ -4,8 +4,7 @@ const {projects}=require("../data.json");
 
 
 router.get('/', (req,res)=>{
-  res.locals.projects=projects;
-  res.render('index');
+  res.render('index', {projects});
 });
 
 router.get('/about', (req,res)=>{

@@ -1,9 +1,9 @@
 {
   "projects": [
     {
-      "id": 4,
-      "project_name": "Project-4",
-      "description": "test",
+      "id": 1,
+      "project_name": "Project 1",
+      "description": "This is project 1!",
       "technologies": ["SASS","HTML", "CSS"],
       "live_link": "https://apasric4.github.io/FEWD-project-4/",
       "github_link": "https://github.com/apasric4/FEWD-project-4",
@@ -15,9 +15,9 @@
       ]
     },
     {
-      "id": 5,
-      "project_name": "Project-5",
-      "description": "test",
+      "id": 2,
+      "project_name": "Project 2",
+      "description": "This is project 2!",
       "technologies": ["Javascript", "HTML", "CSS"],
       "live_link": "https://apasric4.github.io/FEWD-project-5/",
       "github_link": "https://github.com/apasric4/FEWD-project-5",
@@ -29,9 +29,9 @@
       ]
     },
     {
-      "id": 7,
-      "project_name": "Project-7",
-      "description": "test",
+      "id": 3,
+      "project_name": "Project 3",
+      "description": "This is project 3!",
       "technologies": ["Javascript", "HTML", "CSS"],
       "live_link": "https://apasric4.github.io/FEWD-project-7/",
       "github_link": "https://github.com/apasric4/FEWD-project-7",
@@ -43,9 +43,9 @@
       ]
     },
     {
-      "id": 8,
-      "project_name": "Project-8",
-      "description": "test",
+      "id": 4,
+      "project_name": "Project 4",
+      "description": "This is project 4!",
       "technologies": ["Javascript", "HTML", "CSS"],
       "live_link": "https://apasric4.github.io/FEWD-project-8/",
       "github_link": "https://github.com/apasric4/FEWD-project-8",
@@ -57,9 +57,9 @@
       ] 
     },
     {
-      "id": 9,
-      "project_name": "Project-9",
-      "description": "test",
+      "id": 5,
+      "project_name": "Project 5",
+      "description": "This is project 5!",
       "technologies": ["Javascript", "HTML", "Bootstrap"],
       "live_link": "https://apasric4.github.io/FEWD-project-9/",
       "github_link": "https://github.com/apasric4/FEWD-project-9",
