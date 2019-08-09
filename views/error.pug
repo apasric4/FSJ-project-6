@@ -1,3 +1,5 @@
-h1= error.message
-h2= `Error status: ${error.status}`
-h3=error.stack
+extends layout.pug
+block content
+  h1= error.message
+  h2= `Error status: ${error.status}`
+  h3=error.stack

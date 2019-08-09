@@ -19,6 +19,7 @@ const projectRouter=require('./routes/project');
 app.use(mainRouter);
 app.use('/project', projectRouter);
 
+app.use('/static', express.static('public'));
 
 app.use((req,res,next)=>{
   const err=new Error('The page you are looking for does not exist!');

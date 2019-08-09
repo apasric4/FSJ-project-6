@@ -1,31 +1,74 @@
 {
   "projects": [
     {
-      "id": 0,
-      "project_name": "zero",
+      "id": 4,
+      "project_name": "Project-4",
       "description": "test",
-      "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "www.google.com",
-      "github_link": "https://github.com/apasric4/FEWD-project-1",
-      "image_urls": 
+      "technologies": ["SASS","HTML", "CSS"],
+      "live_link": "https://apasric4.github.io/FEWD-project-4/",
+      "github_link": "https://github.com/apasric4/FEWD-project-4",
+      "image_urls": [
+        "/static/images/project-4/main.jpg",
+        "/static/images/project-4/1.jpg",
+        "/static/images/project-4/2.jpg",
+        "/static/images/project-4/3.jpg"
+      ]
     },
     {
-      "id": 1,
-      "project_name": "zero",
+      "id": 5,
+      "project_name": "Project-5",
       "description": "test",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "www.google.com",
-      "github_link": "https://github.com/apasric4/FEWD-project-2",
-      "image_urls": 
+      "live_link": "https://apasric4.github.io/FEWD-project-5/",
+      "github_link": "https://github.com/apasric4/FEWD-project-5",
+      "image_urls": [
+        "/static/images/project-5/main.jpg",
+        "/static/images/project-5/1.jpg",
+        "/static/images/project-5/2.jpg",
+        "/static/images/project-5/3.jpg"
+      ]
     },
     {
-      "id": 2,
-      "project_name": "zero",
+      "id": 7,
+      "project_name": "Project-7",
       "description": "test",
       "technologies": ["Javascript", "HTML", "CSS"],
-      "live_link": "www.google.com",
-      "github_link": "https://github.com/apasric4/FEWD-project-3",
-      "image_urls": 
+      "live_link": "https://apasric4.github.io/FEWD-project-7/",
+      "github_link": "https://github.com/apasric4/FEWD-project-7",
+      "image_urls": [
+        "/static/images/project-7/main.jpg",
+        "/static/images/project-7/1.jpg",
+        "/static/images/project-7/2.jpg",
+        "/static/images/project-7/3.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "project_name": "Project-8",
+      "description": "test",
+      "technologies": ["Javascript", "HTML", "CSS"],
+      "live_link": "https://apasric4.github.io/FEWD-project-8/",
+      "github_link": "https://github.com/apasric4/FEWD-project-8",
+      "image_urls": [
+        "/static/images/project-8/main.jpg",
+        "/static/images/project-8/1.jpg",
+        "/static/images/project-8/2.jpg",
+        "/static/images/project-8/3.jpg"
+      ] 
+    },
+    {
+      "id": 9,
+      "project_name": "Project-9",
+      "description": "test",
+      "technologies": ["Javascript", "HTML", "Bootstrap"],
+      "live_link": "https://apasric4.github.io/FEWD-project-9/",
+      "github_link": "https://github.com/apasric4/FEWD-project-9",
+      "image_urls": [
+        "/static/images/project-9/main.jpg",
+        "/static/images/project-9/1.jpg",
+        "/static/images/project-9/2.jpg",
+        "/static/images/project-9/3.jpg"
+      ]
     }
   ]
 }
